@@ -15,10 +15,8 @@ For more details, please check out the following resources:
 ## Repository Structure
 
 * [Alpaca](https://github.com/islandora-claw/Alpaca): Event driven middleware based on Apache Camel that synchronizes a Fedora 4 with Drupal.  
-* [Chullo](https://github.com/Islandora-CLAW/Chullo): A PHP client for Fedora 4 built using Guzzle and EasyRdf. 
-* [Crayfish](https://github.com/Islandora-CLAW/Crayfish): Top level container for the various Islandora CLAW microservices, lovingly known as Crayfish.
 * [docs](./docs): Documentation!
-* [install](./install): Bleeding edge development environment
+* [install](https://github.com/Islandora-CLAW/claw_vagrant): Bleeding edge development environment
 * [islandora](https://github.com/Islandora-CLAW/islandora): Islandora CLAW Drupal modules 
 * [PDX](https://github.com/Islandora-CLAW/pdx): Top level container for the various [PCDM](http://pcdm.org/) specific Islandora CLAW microservices. 
 
