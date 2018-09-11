@@ -37,6 +37,7 @@ pages:
     - 'Alpaca Technical Stack': 'alpaca/alpaca-technical-stack.md'
     - 'RDF Mapping': 'islandora/rdf-mapping.md'
     - 'Drupal Bundle Configurations': 'islandora/drupal-bundle-configurations.md'
+    - 'Islandora Drupal Tests': 'islandora/islandora-drupal-tests.md'
 - Components:
     - 'Islandora CLAW': 'index.md'
     - 'Alpaca': 'alpaca/README.md'
