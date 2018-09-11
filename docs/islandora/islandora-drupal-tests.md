@@ -14,7 +14,7 @@ sudo -u www-data php /var/www/html/drupal/web/core/scripts/run-tests.sh --suppre
 Note that suppress-deprecations flag is needed due to deprecated functions in Drupal core test classes.
 
 ### Understanding Functional Tests
-Functional tests sets up a new core Drupal instance.  This core Drupal instance does not contain any of the contributed modules.  Any modules and dependencies you need for tests need to be specified in the tests $modules array.
+Functional tests sets up a new core Drupal instance.  This core Drupal instance does not contain any of the contributed modules.  Any modules and dependencies you need for tests need to be specified in the tests `$modules` array.
 
 Additional setup needed for a particular test such as creation of content types with specific fields, nodes etc can go into the setUp method.  
 
